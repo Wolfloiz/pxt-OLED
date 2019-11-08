@@ -15,11 +15,12 @@
         "Adafruit_GFX.h",
         "Adafruit_GFX.cpp",
         "Adafruit_GFX_Config.h",
-        "glcdfont.h"
+        "glcdfont.h",
+        "ssd1306.ts"
     ],
     "testFiles": [
         "test.ts"
     ],
     "public": false,
-    "additionalFilePaths": []
+    "preferredEditor": "tsprj"
 }
